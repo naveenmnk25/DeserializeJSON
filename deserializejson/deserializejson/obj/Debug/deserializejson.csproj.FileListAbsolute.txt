@@ -1,0 +1,11 @@
+C:\Users\HAI\source\repos\deserializejson\deserializejson\bin\Debug\deserializejson.exe.config
+C:\Users\HAI\source\repos\deserializejson\deserializejson\bin\Debug\deserializejson.exe
+C:\Users\HAI\source\repos\deserializejson\deserializejson\bin\Debug\deserializejson.pdb
+C:\Users\HAI\source\repos\deserializejson\deserializejson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAI\source\repos\deserializejson\deserializejson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAI\source\repos\deserializejson\deserializejson\obj\Debug\deserializejson.csproj.AssemblyReference.cache
+C:\Users\HAI\source\repos\deserializejson\deserializejson\obj\Debug\deserializejson.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAI\source\repos\deserializejson\deserializejson\obj\Debug\deserializejson.csproj.CoreCompileInputs.cache
+C:\Users\HAI\source\repos\deserializejson\deserializejson\obj\Debug\deserializejson.csproj.CopyComplete
+C:\Users\HAI\source\repos\deserializejson\deserializejson\obj\Debug\deserializejson.exe
+C:\Users\HAI\source\repos\deserializejson\deserializejson\obj\Debug\deserializejson.pdb
